@@ -1,0 +1,18 @@
+development web server
+  http-server
+  live-server
+  express (production as well)
+  budo
+  Webpack dev server
+  browsersync
+
+sharing work:
+  localtunnel (punches hole in firewall)
+  ngrok (production too) (punches hole in firewall)
+  now (hosts files)
+  surge (host static files)
+
+automation
+  grunt (original)
+  gulp
+  npm
